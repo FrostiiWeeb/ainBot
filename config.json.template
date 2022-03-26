@@ -1,0 +1,6 @@
+{
+    "token": "TOKEN HERE",
+    "postgres_user": "POSTGRES USERNAME HERE",
+    "postgres_pass": "POSTGRES PASSWORD HERE",
+    "postgres_db": "POSTGRES DB HERE"
+}
